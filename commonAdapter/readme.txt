@@ -1,4 +1,4 @@
-ÕâÊÇÒ»¸öÍòÄÜµÄAdapterÊÊÅäÆ÷
-ÓÃ»§Ê¹ÓÃCommonAdapter.class À´ÊÊÅäÄãµÄ¸÷´óView×é¼ş
-CommonViewHolder ÊÇÒ»¸ö¹«¹²µÄViewHolder×é¼ş£¬Ìá¹©Ò»Ğ©¹«ÓÃµÄ·½·¨
-jj     jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+è¿™æ˜¯ä¸€ä¸ªä¸‡èƒ½çš„Adapteré€‚é…å™¨
+ç”¨æˆ·ä½¿ç”¨CommonAdapter.class æ¥é€‚é…ä½ çš„å„å¤§Viewç»„ä»¶
+CommonViewHolder æ˜¯ä¸€ä¸ªå…¬å…±çš„ViewHolderç»„ä»¶ï¼Œæä¾›ä¸€äº›å…¬ç”¨çš„æ–¹æ³•
+zhe shi yige ceshi de wenben 
