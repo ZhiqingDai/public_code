@@ -1,0 +1,1 @@
+java com.renrenhua.ChannelPkgUtil app-release.apk
